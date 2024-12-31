@@ -1,0 +1,6 @@
+Django==5.1.4
+moviepy==2.1.1
+pytubefix==8.8.5
+celery==5.4.0
+django-celery-beat==2.7.0
+redis==5.2.1
